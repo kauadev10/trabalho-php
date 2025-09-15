@@ -1,5 +1,6 @@
 <?php
-/**************************
+
+/******************************************************************************
     Curso: Engenharia de Software
     Disciplina: Linguagem e Técnicas de Programacão
     Professor: Flores
@@ -16,7 +17,7 @@
         22001126-3 - Eric Ruthes
     Data: 29 de Agosto de 2025
     Descritivo: Use operadores de atribuição para incrementar uma variável em 5
- ***************************/
+ *******************************************************************************/
 $num = 10;
 $num += 5;
 echo $num;
