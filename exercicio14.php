@@ -10,12 +10,12 @@
         25010975-2 - Bruno Petroli
         25004001-3 - Rafael Diesel
         25229846-2 - Wendel Souza Cardoso
-        25165088-2 - Vinicius Bastos Rodrigues
+        25228676-2 - Marlon Willian Silva Barros
         25357682-2 - Eduardo Rupp da Luz
         25165088-2 - Vinicius Bastos Rodrigues
         25178065-2 - Marcos Barcelar
         22001126-3 - Eric Ruthes
-    Data: 14 de Setembro 2025
+    Data: 29 de Agosto de 2025
     Descritivo: Escreva um código que use /= para reduzir um valor pela metade
  *******************************************************************************/
 
